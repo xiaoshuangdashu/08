@@ -24,15 +24,6 @@ hide_edgeone: true
 
 ---
 
-> 如不愿折腾开源项目，推荐直接下载第三方开发的软件 **直播电视**APP 使用，手机电视盒子都兼容，没有广告，完全免费。
->
-> 直播电视APP 下载地址：[https://izbds.com](https://izbds.com/aztv/)   推荐[野草助手](https://www.yecao.net/download/)安装码：**0024**
->
-> 软件内包含大量直播源，包含港澳台频道，速度流畅，并且每日多次更新。
-
-------
-
-**域名 live.izbds.com 喜提GFW免费套餐,请用新域名或加速域名**
 
 
 
@@ -180,10 +171,6 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 - 使用本项目即表示您已阅读并同意本免责声明，如不同意本声明，请立即停止使用本项目，本项目保留随时更新免责声明的权利
 
   
-
-<h2>🎁 欢迎请我喝杯饮料</h2>
-
-![微信赞赏码 - 支持项目维护者](assets/wxds.png "微信赞赏码")
 
 
 
